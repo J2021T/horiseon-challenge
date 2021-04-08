@@ -12,5 +12,13 @@
  -Spaced out between the content section and the next div, which I renamed section.
  -Changed last div to footer.
 
-### Step 3:
+### Step 3: Cleaned up index.html
+-Added an id for SEO article so link from header could work.
+-Removed unnecessary classes from articles in content section.
+-Removed unnecessary classes from benefits divs.
+-Updated benefits divs to articles (missed in step 2)
+
+### Step 4: Updated and Cleaned up style.css
+-Updated syntax to reflect semantics changes in index file.
+-
 
