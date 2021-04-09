@@ -1,5 +1,7 @@
 # Horiseon Challenge: Refactor Starter Code
 
+## Link to Page: https://j2021t.github.io/the-challenge-of-horiseon/
+
 ## Description of Steps
 
 ### Step 1: Added alt attributes to all img's for accessibility.
