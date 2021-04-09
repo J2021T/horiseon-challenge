@@ -13,6 +13,7 @@
  -Changed last div to footer.
 
 ### Step 3: Cleaned up index.html
+-Changed title to Horiseon
 -Added an id for SEO article so link from header could work.
 -Removed unnecessary classes from articles in content section.
 -Removed unnecessary classes from benefits divs.
@@ -20,5 +21,7 @@
 
 ### Step 4: Updated and Cleaned up style.css
 -Updated syntax to reflect semantics changes in index file.
--
+-Organized the css into parts of the page and noted them
+-Consolidated duplicated code into single blocks for content, benefits, and articles
+
 
