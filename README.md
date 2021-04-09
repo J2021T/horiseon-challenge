@@ -18,7 +18,6 @@
 - Added an id for SEO article so link from header could work.
 - Removed unnecessary classes from articles in content section.
 - Removed unnecessary classes from benefits divs.
-- Updated benefits divs to articles (missed in step 2)
 
 ### Step 4: Updated and Cleaned up style.css
 - Updated syntax to reflect semantics changes in index file.
